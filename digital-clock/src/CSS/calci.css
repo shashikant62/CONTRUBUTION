@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding :0px;
+    box-sizing: border-box;
+}
+#time{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 20px;
+    color: rgb(0, 0, 0);
+}
+#day{
+    font-family: cursive;
+    color: rgb(255, 183, 88);
+}
+#date{
+    font-family: cursive;
+    color: rgb(161, 149, 133);
+}
+.main{
+    background-color: rgb(59, 82, 154);
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    box-shadow: 20px 13px #514747;
+    border:solid rgb(255, 194, 194);
+}
